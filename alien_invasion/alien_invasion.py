@@ -20,6 +20,7 @@ class AlienInvasion:
     def run_game(self):
         """Starts the main loop for the game"""
         while True:
+            self.settings = Settings()
             # Watch for keyboard and mouse events
             for event in pygame.event.get():
                 if event.type == pygame.QUIT:
