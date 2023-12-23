@@ -1,2 +1,3 @@
 # AlienInvasionGame
-A simple 2D game created with Python
+
+A simple 2D game created with Python. In this game, the player controls a ship that appears at the botton center of the screen. The player can move the ship right and left with the arrow keys. The player can shoot bullets using the spacebar. When the game begins, a fleet of aliens fills the sky and moves across and down the screen. The goal for the player is to shoot and destroy the aliens. If the players shoots down all of the aliens a new fleet of aliens will appear which moves faster then the last fleet. If the player's ship gets hit by an alien or if an alien reaches the bottom of the screen the player will lose a ship. Finally, if the player loses three ships they lose the game.
